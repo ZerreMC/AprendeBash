@@ -1,7 +1,9 @@
+![bash banner](https://github.com/ZerreMC/Basics-Scripts/assets/69958471/5af9bb15-50cd-4c66-bc2a-dfee8f671cc7)
 # Scripts de Bash para Principiantes
 
 ## Descripción
 Este repositorio contiene una serie de ejercicios con fines educativos, tanto para aprender desde cero bash o reforzar los conocimientos previos. Contiene los recursos suficientes para superar la prueba de aptitudes de Linkedin si te interesa hacerla.
+
 Es importante recordar que por cada ejercicio consultes el manual o busques información por internet y no mires directamente las soluciones aunque sea tentador. Si usas el chatgpt, bard o cualquier ia, recomiendo que sea para consultas específicas no para escribir todo el ejercicio. También te animo a proponer otras soluciones ya que hay diversas maneras de abordar un mismo problema.
 
 ## Tabla de Contenidos
@@ -11,6 +13,7 @@ Es importante recordar que por cada ejercicio consultes el manual o busques info
 
 ## Cómo Empezar
 Si eres usuario de Linux, solo te tendrás que preocupar por tener instalado un editor de texto y memoria libre.
+
 Si eres usuario de Windows, es mejor que leas los prerrequisitos para poder realizar los ejercicios.
 
 ### Prerrequisitos
