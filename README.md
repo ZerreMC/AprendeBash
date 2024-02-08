@@ -1,4 +1,4 @@
-# Nombre del Proyecto: Scripts de Bash para Principiantes
+# Scripts de Bash para Principiantes
 
 ## Descripción
 Este repositorio contiene una serie de ejercicios con fines educativos, tanto para aprender desde cero bash o reforzar los conocimientos previos. Contiene los recursos suficientes para superar la prueba de aptitudes de Linkedin si te interesa hacerla.
