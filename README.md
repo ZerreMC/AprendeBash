@@ -10,7 +10,7 @@ Es importante recordar que por cada ejercicio consultes el manual o busques info
 ## Tabla de Contenidos
 - [Cómo Empezar](#cómo-empezar)
   - [Prerrequisitos](#prerrequisitos)
-- [Enlaces útiles](#enlaces-útiles)
+- [Enlaces Útiles](#enlaces-útiles)
 - [Contacto](#contacto)
 
 
@@ -34,7 +34,7 @@ Si no estás familiarizado con la configuración de máquinas virtuales, aquí h
 Recuerda, la práctica hace al maestro.
 
 
-## 🌐 Enlaces Útiles
+## Enlaces Útiles
 - [Permisos de archivos en Linux](https://itsfoss.com/es/permisos-de-archivos-en-linux/) - Explicación detallada sobre cómo gestionar permisos de archivos en Linux.
 - [Cómo ejecutar un script](https://itsfoss.com/es/ejecutando-bash-script/) - Una guía paso a paso para ejecutar scripts de Bash.
 - [GNU Bash Manual](https://www.gnu.org/software/bash/manual/bash.html) - El manual oficial de Bash para usuarios avanzados.
