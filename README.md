@@ -6,15 +6,19 @@ Este repositorio contiene una serie de ejercicios con fines educativos, tanto pa
 
 Es importante recordar que por cada ejercicio consultes el manual o busques información por internet y no mires directamente las soluciones aunque sea tentador. Si usas el chatgpt, bard o cualquier ia, recomiendo que sea para consultas específicas no para escribir todo el ejercicio. También te animo a proponer otras soluciones ya que hay diversas maneras de abordar un mismo problema.
 
+
 ## Tabla de Contenidos
 - [Cómo Empezar](#cómo-empezar)
   - [Prerrequisitos](#prerrequisitos)
+- [Enlaces útiles](#enlaces-útiles)
 - [Contacto](#contacto)
+
 
 ## Cómo Empezar
 Si eres usuario de Linux, solo te tendrás que preocupar por tener instalado un editor de texto y memoria libre.
 
 Si eres usuario de Windows, es mejor que leas los prerrequisitos para poder realizar los ejercicios.
+
 
 ### Prerrequisitos
 Para usuarios de Windows, antes de sumergirte en el mundo de los scripts de Bash, asegúrate de tener configurado tu entorno de la siguiente manera:
@@ -27,7 +31,16 @@ Si no estás familiarizado con la configuración de máquinas virtuales, aquí h
 - [Guía de instalación de VirtualBox](https://es.wikihow.com/instalar-VirtualBox)
 - [Cómo instalar Ubuntu en VirtualBox](https://osl.ugr.es/2020/09/29/como-instalar-ubuntu-en-virtual-box/) (o cualquier otra distribución de Linux que prefieras)
 
-Recuerda, la práctica hace al maestro. Así que una vez que tengas tu entorno listo, ¡es hora de empezar a scriptear!
+Recuerda, la práctica hace al maestro.
+
+
+## 🌐 Enlaces Útiles
+- [Permisos de archivos en Linux](https://itsfoss.com/es/permisos-de-archivos-en-linux/) - Explicación detallada sobre cómo gestionar permisos de archivos en Linux.
+- [Cómo ejecutar un script](https://itsfoss.com/es/ejecutando-bash-script/) - Una guía paso a paso para ejecutar scripts de Bash.
+- [GNU Bash Manual](https://www.gnu.org/software/bash/manual/bash.html) - El manual oficial de Bash para usuarios avanzados.
+- [Comandos de Linux en FreeCodeCamp](https://www.freecodecamp.org/espanol/news/comandos-de-linux/) - Una lista extensa de comandos de Linux con explicaciones.
+- [Bash Reference Manual (Español)](https://dirac.df.uba.ar/_media/bashref.es.pdf) - Manual de referencia de Bash disponible en español.
+
 
 ## Contacto
 Sebastian J. Gutierrez - zerreytug.gll@gmail.com
