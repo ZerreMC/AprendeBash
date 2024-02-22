@@ -10,6 +10,30 @@ Estás en un parque de atracciones y necesitas crear un script para determinar e
 
 Si se introduce una edad no válida (por ejemplo, un número negativo diferente de `-1` o un valor no numérico), el script debe enviar un mensaje de error al canal de errores y solicitar de nuevo la edad.
 
+## Ejemplo de ejecución
+```console
+$ Introduce la edad del cliente (-1 para finalizar): 30
+El cliente deberá pagar 30€
+
+$ Introduce la edad del cliente (-1 para finalizar): 15
+El cliente deberá pagar 20€
+
+$ Introduce la edad del cliente (-1 para finalizar): 7
+El cliente deberá pagar 10€
+
+$ Introduce la edad del cliente (-1 para finalizar): 4
+El cliente es demasiado pequeño para pagar
+
+$ Introduce la edad del cliente (-1 para finalizar): asdfgh
+Por favor, introduce correctamente la edad
+
+$ Introduce la edad del cliente (-1 para finalizar): -50
+Por favor, introduce correctamente la edad
+
+$ Introduce la edad del cliente (-1 para finalizar): -1
+Gracias por utilizar el programa de tarifa del parque de atracciones.
+```
+
 ## Recomendaciones
 - Comienza tu script con `#!/bin/bash` para indicar que debe ejecutarse con Bash.
 - Usa el comando `read` para recoger la entrada del usuario.
