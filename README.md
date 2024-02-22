@@ -29,7 +29,7 @@ Para usuarios de Windows, antes de sumergirte en el mundo de los scripts de Bash
 
 Si no estás familiarizado con la configuración de máquinas virtuales, aquí hay algunos recursos para comenzar:
 - [Guía de instalación de VirtualBox](https://es.wikihow.com/instalar-VirtualBox)
-- [Cómo instalar Ubuntu en VirtualBox](https://osl.ugr.es/2020/09/29/como-instalar-ubuntu-en-virtual-box/) (o cualquier otra distribución de Linux que prefieras)
+- [Cómo instalar PopOs en VirtualBox](https://linux.how2shout.com/how-to-install-pop-os-in-virtualbox-virtual-machine) (o cualquier otra distribución de Linux que prefieras)
 
 Recuerda, la práctica hace al maestro.
 
