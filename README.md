@@ -24,7 +24,7 @@ Si eres usuario de Windows, es mejor que leas los prerrequisitos para poder real
 Para usuarios de Windows, antes de sumergirte en el mundo de los scripts de Bash, asegúrate de tener configurado tu entorno de la siguiente manera:
 
 - **VirtualBox o cualquier otro software de virtualización:** Esto te permitirá ejecutar una distribución de Linux en tu máquina Windows, proporcionándote un entorno de Bash nativo para trabajar con los scripts.
-- **Al menos 200 MB de memoria libre en TU MÁQUINA VIRTUAL:** Para asegurar un rendimiento suave al ejecutar tus scripts de Bash.
+- **Al menos 10 GB de memoria libre en TU MÁQUINA VIRTUAL:** Para asegurar la instalacion de Ubuntu y la ejecución de tus scripts de Bash.
 - **Un editor de texto confiable:** Recomiendo [Visual Studio Code](https://code.visualstudio.com/) por su soporte integrado para Git y su terminal integrada, o [Notepad++](https://notepad-plus-plus.org/) si buscas algo más simple. Para los que deseen una experiencia más cercana al sistema Unix, herramientas como `nano` o `vim` son opciones robustas que, aunque con menos comodidades, ofrecen un control preciso y una experiencia de edición potente y tradicional en la línea de comandos.
 
 Si no estás familiarizado con la configuración de máquinas virtuales, aquí hay algunos recursos para comenzar:
