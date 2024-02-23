@@ -8,7 +8,7 @@ Estás en un parque de atracciones y necesitas crear un script para determinar e
 - Entre 6 y 13 años: 10€
 - 5 años o menos: Entrada gratuita
 
-Si se introduce una edad no válida (por ejemplo, un número negativo diferente de `-1` o un valor no numérico), el script debe enviar un mensaje de error al canal de errores y solicitar de nuevo la edad.
+Si se introduce una edad no válida (por ejemplo, un número negativo diferente de `-1`, un valor no numérico o un valor superior a 122), el script debe enviar un mensaje de error al canal de errores y solicitar de nuevo la edad.
 
 ## Ejemplo de ejecución
 ```console
