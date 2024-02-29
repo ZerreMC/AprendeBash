@@ -9,7 +9,7 @@ Antes de comenzar, asegúrate de leer cuidadosamente el enunciado del ejercicio.
 
 ### 2. Descargar o Copiar la Estructura del Fichero de Prueba
 
-Cada ejercicio viene con un fichero de prueba que puedes utilizar como punto de partida. Puedes descargarlo directamente del repositorio o copiar su contenido. Este fichero contiene la estructura básica que necesitas para comenzar a escribir tu solución.
+Cada ejercicio viene con un fichero de prueba que puedes utilizar como punto de partida. Puedes descargarlo directamente del repositorio o copiar su contenido. Este fichero, en los ejercicios fáciles contiene la estructura básica que necesitas para comenzar a escribir tu solución.
 
 - Para **descargar** el fichero, busca el botón de descarga en la interfaz de GitHub o usa el comando `wget` con la URL del fichero si estás utilizando la línea de comandos.
 - Para **copiar** el contenido, simplemente selecciona el texto, cópialo y pégalo en un nuevo fichero en tu entorno de desarrollo local.
@@ -19,6 +19,10 @@ Cada ejercicio viene con un fichero de prueba que puedes utilizar como punto de 
 Para cada ejercicio, proporcionamos un script de test que puedes utilizar para verificar si tu solución es correcta. Descarga este script del repositorio y ejecútalo en tu entorno local para probar tu código.
 
 - Ejecuta el script de test usando la línea de comandos. Asegúrate de que tu solución cumple con todos los casos de prueba proporcionados.
+
+```console
+./test.sh -f tuFichero.sh
+```
 
 ### 4. Comparar con la Solución
 
