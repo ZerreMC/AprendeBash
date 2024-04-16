@@ -1,0 +1,22 @@
+INFO Usuario admin inició sesión exitosamente
+ERROR Fallo al cargar el módulo de autenticación
+INFO Se recibió una solicitud de API desde 192.168.1.105
+WARN Memoria disponible baja en servidor
+ERROR Conexión perdida con el servidor de base de datos
+INFO Actualización de software iniciada
+ERROR Fallo al cargar el módulo de autenticación
+CRITICAL Sistema de refrigeración fallando, riesgo de sobrecalentamiento
+INFO Usuario guest intentó acceso restringido
+ERROR El archivo config.xml no se encontró
+WARN Se intentó una conexión SSH no autorizada
+ERROR Conexión perdida con el servidor de base de datos
+ERROR Fallo al cargar el módulo de autenticación
+INFO Usuario admin cerró sesión
+ERROR Fallo al enviar email de notificación
+WARN La temperatura del CPU está sobre el umbral
+ERROR Conexión perdida con el servidor de base de datos
+CRITICAL Falla crítica en la base de datos, posible pérdida de datos
+ERROR Fallo al enviar email de notificación
+INFO Se completó la actualización de software
+ERROR Fallo al enviar email de notificación
+CRITICAL Falla de seguridad detectada, posible intrusión
