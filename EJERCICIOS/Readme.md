@@ -14,15 +14,22 @@ Cada ejercicio viene con un fichero de prueba que puedes utilizar como punto de 
 - Para **descargar** el fichero, busca el botón de descarga en la interfaz de GitHub o usa el comando `wget` con la URL del fichero si estás utilizando la línea de comandos.
 - Para **copiar** el contenido, simplemente selecciona el texto, cópialo y pégalo en un nuevo fichero en tu entorno de desarrollo local.
 
-### 3. Descargar el Script de Test
+### 3. Descargar y Ejecutar el Script de Test
 
-Para cada ejercicio, proporcionamos un script de test que puedes utilizar para verificar si tu solución es correcta. Descarga este script del repositorio y ejecútalo en tu entorno local para probar tu código.
+Para cada ejercicio, se proporciona un script de test, test.sh, que puedes utilizar para verificar si tu solución es correcta. Sigue estas recomendaciones para ejecutar las pruebas de manera efectiva:
 
-- Ejecuta el script de test usando la línea de comandos. Asegúrate de que tu solución cumple con todos los casos de prueba proporcionados.
+Las recomendaciones para ejecutar las pruebas son las siguientes:
+1. Crea una carpeta para cada ejercicio: Esto te ayuda a organizar tus archivos y facilita la ejecución de los tests.
+2. Guarda tu solución en el directorio correcto: Asegúrate de que el archivo de tu solución esté en la misma carpeta que el script de test.
+3. Descarga el script de test: Accede a nuestro repositorio y descarga el script test.sh correspondiente al ejercicio que estás trabajando.
+4. Ejecuta el script de test usando la línea de comandos:
+5. Abre una terminal Bash en el directorio donde se encuentran el script de test y tu archivo de solución. Ejecuta el siguiente comando:
 
 ```console
-./test.sh -f tuFichero.sh
+./test.sh
 ```
+
+Recuerda que es importante utilizar una terminal que soporte Bash para la correcta ejecución del script.
 
 ### 4. Comparar con la Solución
 
