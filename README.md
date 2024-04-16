@@ -21,15 +21,22 @@ Si eres usuario de Windows, es mejor que leas los prerrequisitos para poder real
 
 
 ### Prerrequisitos
-Para usuarios de Windows, antes de sumergirte en el mundo de los scripts de Bash, asegúrate de tener configurado tu entorno de la siguiente manera:
+Para usuarios de Windows, antes de sumergirte en el mundo de los scripts de Bash, hay diversas formas de programar en Bash:
 
-- **VirtualBox o cualquier otro software de virtualización:** Esto te permitirá ejecutar una distribución de Linux en tu máquina Windows, proporcionándote un entorno de Bash nativo para trabajar con los scripts.
-- **Al menos 10 GB de memoria libre en TU MÁQUINA VIRTUAL:** Para asegurar la instalacion de Ubuntu y la ejecución de tus scripts de Bash.
-- **Un editor de texto confiable:** Recomiendo [Visual Studio Code](https://code.visualstudio.com/) por su soporte integrado para Git y su terminal integrada, o [Notepad++](https://notepad-plus-plus.org/) si buscas algo más simple. Para los que deseen una experiencia más cercana al sistema Unix, herramientas como `nano` o `vim` son opciones robustas que, aunque con menos comodidades, ofrecen un control preciso y una experiencia de edición potente y tradicional en la línea de comandos.
+* Máquina Virtual:
+  - **VirtualBox o cualquier otro software de virtualización:** Esto te permitirá ejecutar una distribución de Linux en tu máquina Windows, proporcionándote un entorno de Bash nativo para trabajar con los scripts.
+  - **Al menos 10 GB de memoria libre en TU MÁQUINA VIRTUAL:** Para asegurar la instalacion de Ubuntu y la ejecución de tus scripts de Bash.
+  - **Un editor de texto confiable:** Recomiendo [Visual Studio Code](https://code.visualstudio.com/) por su soporte integrado para Git y su terminal integrada, o [Notepad++](https://notepad-plus-plus.org/) si buscas algo más       simple. Para los que deseen una experiencia más cercana al sistema Unix, herramientas como `nano` o `vim` son opciones robustas que, aunque con menos comodidades, ofrecen un control preciso y una experiencia de edición potente y tradicional en la línea de comandos.
 
-Si no estás familiarizado con la configuración de máquinas virtuales, aquí hay algunos recursos para comenzar:
-- [Guía de instalación de VirtualBox](https://es.wikihow.com/instalar-VirtualBox)
-- [Cómo instalar PopOs en VirtualBox](https://linux.how2shout.com/how-to-install-pop-os-in-virtualbox-virtual-machine) (o cualquier otra distribución de Linux que prefieras)
+  Si no estás familiarizado con la configuración de máquinas virtuales, aquí hay algunos recursos para comenzar:
+    - [Guía de instalación de VirtualBox](https://es.wikihow.com/instalar-VirtualBox)
+    - [Cómo instalar PopOs en VirtualBox](https://linux.how2shout.com/how-to-install-pop-os-in-virtualbox-virtual-machine) (o cualquier otra distribución de Linux que prefieras)
+
+* Windows Subsystem for Linux (WSL): WSL permite a los usuarios de Windows ejecutar una distribución de Linux directamente en Windows, sin la sobrecarga de una máquina virtual. Es una de las maneras más sencillas y eficientes de utilizar Bash en Windows. [Aprende cómo instalar WSL](https://docs.microsoft.com/en-us/windows/wsl/install).
+
+* Git for Windows: Incluye Git BASH, que es un emulador de Bash para Windows. Es una buena opción para ejecutar scripts de Bash simples y usar herramientas de línea de comandos de Git. [Descarga Git for Windows](https://gitforwindows.org).
+
+* Visual Studio Code: Un editor moderno con integración de Git y terminal, además de soporte para una gran variedad de lenguajes y herramientas. [Descarga Visual Studio Code](https://code.visualstudio.com).
 
 Recuerda, la práctica hace al maestro.
 
